@@ -1,7 +1,7 @@
 {
   "name": "chc",
-  "version": "0.0.1",
-  "author": "Ionic Framework",
+  "version": "1.0.0",
+  "author": "cxp",
   "homepage": "http://ionicframework.com/",
   "private": true,
   "scripts": {
